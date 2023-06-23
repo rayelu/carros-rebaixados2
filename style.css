@@ -3,13 +3,13 @@
     padding: 0;
 }
 .cabecalho{
-    background-color: escolha uma cor;
-    color: escolha uma cor;
+    background-color: yellow;
+    color: red;
     font-size: tamanho de fonte em px;
     display: flex;
     justify-content: baseline;
 }
 .cabecalho-imagem{
-    width: 10%;
-    height: 10%;
+    width: 20%;
+    height: 20%;
 }
